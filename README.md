@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Docker + n8n Setup Guide
 
 Technical documentation for installing, configuring and running n8n locally using Docker on Windows.
