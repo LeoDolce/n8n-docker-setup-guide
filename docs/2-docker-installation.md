@@ -1,4 +1,4 @@
-# 02. Docker Installation
+# 2. Docker Installation
 
 ## Download Docker Desktop
 
