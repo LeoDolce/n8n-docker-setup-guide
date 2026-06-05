@@ -1,4 +1,4 @@
-# 01. Requirements
+# 1. Requirements
 
 ## Operating System
 
